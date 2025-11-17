@@ -4,6 +4,11 @@ A mobile application that uses **Bluetooth Low Energy (BLE)** and **Facial Recog
 
 ---
 
+## 🎥 Demo Video
+[Video Link](https://drive.google.com/file/d/1471l5dmDCnrAizw6y_b4-wvEaMHYsc8B/view?usp=sharing)
+
+---
+
 ## 🚀 Features
 
 - **👨‍🏫 Dual User Roles**  
